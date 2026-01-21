@@ -80,14 +80,15 @@ in the Dashboard youll first notice your dev ID indentifier for the SDK init met
 after creating an app, you'll get an app ID indentifier for the SDK init method
 ![homepage screenshot](images/AppID.png)
 
-## Additional Features
-
 ### Stopping the SDK
 
 If you want to temporarily stop shake detection (for example, on sensitive screens):
 ```kotlin
 ShakeBug.stop()
 ```
+## WIP
+1. To expand and collect more vital information per report
+2. To screenshot the activity, or add an option to add an image for each report. 
 
 ## System Requirements
 
