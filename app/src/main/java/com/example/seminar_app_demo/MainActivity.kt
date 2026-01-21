@@ -17,6 +17,6 @@ class MainActivity : AppCompatActivity() {
             v.setPadding(systemBars.left, systemBars.top, systemBars.right, systemBars.bottom)
             insets
         }
-        ShakeBug.init(this,"KkaL8VGloaRt2WsxumhaV8434on2","tVbzCyJzGvp5NaBIJZDF")
+        ShakeBug.init(this,"devID","appID")
     }
 }
