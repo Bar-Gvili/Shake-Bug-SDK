@@ -1,4 +1,4 @@
-# Shake-Bug-SDK
+# Shake-Bug-SDK V1.0.0
 
 **Shake-Bug-SDK** is an Android library that enables developers to integrate a quick bug reporting mechanism into their application by detecting a shake gesture on the device. The library manages system data collection, automatic screenshots, and presents a dedicated interface for users to submit reports.
 
