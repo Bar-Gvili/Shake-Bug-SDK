@@ -36,7 +36,7 @@ class UploadWorker(appContext: Context, workerParams: WorkerParameters) :
         }
         println("DEBUG: devId: $devId, appId: $appId")
 
-        val apiKey = "AIzaSyC4wHTC5WcNmGqM0tw-DmiKpcwo233jac0"
+        val apiKey = ""
         val projectId = "shakebug-platform"
 
         val client = OkHttpClient()
